@@ -1,0 +1,33 @@
+Endereços dos Contratos Gerados:
+	      	
+1) Café Token:0xea21A5576850De899a1697D681A3A9F1b61634C6
+		  
+2) Café Lote NFT: 0xF6dA24256cCecb25597448a5343b114A07d20363
+		     
+3) MockV3Aggregator: 0xAC279Ae7cF5554B8f30C93aa302376d9C3B2A7Fb
+	       
+4) CafeStaking:0xC06F53A35882E6934411B24899869854e7AB39A3
+
+5)CafeGovernance:0xB57633Af028D574D54130Ea431de5FBDb33bDc3D
+
+------------------------------------------------------------------
+EndeUser Ethersacan:
+User: Marcio
+email:profmarciojmorais@gmail.com
+psw
+API da EtherScan
+
+------------------------------------------------------------------
+Copia de Endereços Antigos:
+
+Endereços dos Contratos Gerados:
+	      	
+1) Café Token:0xd9145CCE52D386f254917e481eB44e9943F39138
+		  
+2) Café Lote NFT: 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+		     
+3) MockV3Aggregator: 0xf8e81D47203A594245E36C48e151709F0C19fBe8
+	       
+4) CafeStaking:0xD7ACd2a9FD159E69Bb102A1ca21C9a3e3A5F771B
+
+5) CafeGovernance:0x7EF2e0048f5bAeDe046f6BF797943daF4ED8CB47
